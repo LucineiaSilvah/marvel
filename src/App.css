@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  font-family: "/public/imagens/MarvelRegular-Dj83.woff";
+   background-color: #d6d6d8;
 }
 
 .App-logo {

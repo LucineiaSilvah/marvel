@@ -2,7 +2,7 @@ import './Banner.css'
 const Banner = ()=>{
   return(
     <header className='banner'>
-     <h1>Ordem Cronologica</h1>
+     <h1>So os Melhores Filmes</h1>
     </header>
   )
 }
