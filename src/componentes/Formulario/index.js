@@ -46,7 +46,7 @@ const Formulario = (props) => {
       <ListaSuspensa 
       valor={filme}
       aoAlterado={valor => setFilme(valor)}
-      label='Filmes'
+      label='Categoria'
       itens={props.filmes}/>
       <Botao>
          Adicionar
