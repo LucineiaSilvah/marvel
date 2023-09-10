@@ -1,0 +1,37 @@
+.footer {
+    background: #540C0B;
+    color: #9dbbc3;
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: bold;
+}
+
+.footer ul li {
+    display:flex;
+    height: 50px;
+    width: 50px;
+    position: relative;
+
+}
+
+.footer ul li:nth-child(1) {
+    margin-right: 0;
+    background:  url(/public/imagens/icons8-github.svg) no-repeat center /cover;
+}
+.footer ul li:nth-child(2) {
+    margin-right: 0;
+    background:  url(/public/imagens/icons8-linkedin.svg) no-repeat center / cover;
+}
+.footer a {
+  
+    position: absolute;
+    color: #9dbbc3;
+    text-decoration: none;
+    top: 20px;
+    left: 60px;
+}
+.footer a:nth-child(1){
+    
+}

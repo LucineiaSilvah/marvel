@@ -3,6 +3,7 @@ import Banner from './componentes/Banner';
 import './App.css';
 import Formulario from './componentes/Formulario';
 import Filme from './componentes/Filme';
+import Rodape from './componentes/Rodape'
 
 function App() {
 
@@ -55,6 +56,7 @@ function App() {
    
 
    />)}
+   <Rodape />
     </div>
   );
 }
